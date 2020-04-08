@@ -111,6 +111,7 @@ export default class Game extends React.Component {
 
   render() {
     console.log('Jack was here');
+    console.log('Seth was here');
     return (
       <div>
         <div className="game">
