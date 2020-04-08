@@ -110,7 +110,7 @@ export default class Game extends React.Component {
   }
 
   render() {
-
+    console.log('Jack was here');
     return (
       <div>
         <div className="game">
